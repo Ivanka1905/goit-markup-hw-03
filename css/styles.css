@@ -236,7 +236,7 @@ address {
 .filter {
     display: flex;
     justify-content: center;
-    margin-bottom: 16px;;
+    margin-bottom: 50px;
 }
 .filter li{margin-right: 8px;}
 .filter li:last-child{margin-right: 0;}
@@ -263,7 +263,6 @@ address {
 .examples {display: flex;
     flex-wrap: wrap;
     gap: 30px;
-    padding-top: 34px;
 }
 .examples-cards{
     flex-basis: calc((100% - 60px) / 3);
